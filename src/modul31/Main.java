@@ -6,23 +6,3 @@ public class Main {
     }
 
 }
-
-class Shop {
-    MuzInst m1;
-}
-
-class MuzInst {
-
-}
-
-class Guitar extends MuzInst{
-
-}
-
-class Truba extends MuzInst{
-
-}
-
-class Fortepiano extends MuzInst{
-
-}
