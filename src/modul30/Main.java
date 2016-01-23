@@ -1,8 +1,10 @@
 package modul30;
+
 public class Main {
 
     public static void main(String[] args) {
-// TODO code application logic here
+        String[] fileInDirectory = {"Pic1", "Pic2", "Pic3", "Pic4"};
+
     }
 
 }
